@@ -7,7 +7,7 @@ O CakePHP não oferece um framework apenas para desenvolvimento web,
 mas também um framework para criação de aplicações de console. Estas
 aplicações são ideais para manipular variadas tarefas em segundo plano como
 manutenção e complementação de trabalho fora do ciclo requisição-resposta.
-As aplicações de console do CakePHP permitem a vocë reutilizar suas classes
+As aplicações de console do CakePHP permitem a você reutilizar suas classes
 de aplicação a partir da linha de comando.
 
 O CakePHP traz consigo algumas aplicações de console nativas. Algumas dessas
